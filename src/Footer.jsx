@@ -4,7 +4,7 @@ const Footer = () => {
 
   return (
     <footer className="bg-dark text-white text-center mt-3">
-      &copy; {currentYear} Omar Jaber
+      &copy; {currentYear} MoumenNajjar
     </footer>
   );
 };
